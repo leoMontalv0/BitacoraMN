@@ -1,6 +1,6 @@
 # Bitácora de Métodos Numéricos
 
-Repositorio de ejercicios y prácticas del curso de Métodos Numéricos.
+Repositorio de ejercicios de Métodos Numéricos.
 
 ---
 
