@@ -13,6 +13,7 @@ Repositorio de ejercicios de Métodos Numéricos.
 | 3 | [Sistemas de Ecuaciones](./Tema3-Sistemas-de-Ecuaciones) | Métodos de Jacobi y Gauss-Seidel |
 | 4 | [Diferenciación e Integración Numérica](./Tema4-Diferenciacion-e-Integracion) | Diferencias hacia adelante, atrás, centrada, derivadas de orden superior |
 | 5 | [Interpolación y Regresión](./Tema5-Interpolacion-y-Regresion) | Métodos de interpolación y regresión |
+| 6 | [Solución de Ecuaciones diferenciales](./Tema6-un-paso) | Métodos para la resolución de ecuaciones diferenciales |
 
 ---
 
@@ -24,5 +25,6 @@ BitacoraMN/
 ├── Tema2-Raices-de-Ecuaciones/
 ├── Tema3-Sistemas-de-Ecuaciones/
 ├── Tema4-Diferenciacion-e-Integracion/
-└── Tema5-Interpolacion-y-Regresion/
+├── Tema5-Interpolacion-y-Regresion/
+└── Tema6-un-paso/
 ```
