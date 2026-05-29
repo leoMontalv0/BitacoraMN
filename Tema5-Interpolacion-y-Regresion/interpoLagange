@@ -1,0 +1,19 @@
+x = [1,2,3]
+y = [2,3,5]
+
+xp = 2.5
+n = len(x)
+yp = 0
+
+for i in range(n):
+
+    p = y[i]
+
+    for j in range(n):
+
+        if i != j:
+            p = p * (xp - x[j]) / (x[i] - x[j])
+
+    yp = yp + p
+
+print("Valor aproximado:", round(yp,4))
