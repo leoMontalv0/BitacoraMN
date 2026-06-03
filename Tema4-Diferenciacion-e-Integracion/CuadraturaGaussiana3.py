@@ -1,0 +1,14 @@
+import math
+
+def f(x):
+    return x**3 + 2*x
+
+x1 = -1 / math.sqrt(3)
+x2 = 1 / math.sqrt(3)
+
+w1 = 1
+w2 = 1
+
+resultado = w1 * f(x1) + w2 * f(x2)
+
+print("Resultado aproximado:", resultado)
